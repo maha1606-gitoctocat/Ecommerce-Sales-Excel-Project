@@ -27,13 +27,6 @@ Identifies top customers contributing to sales.
 -	Year-wise Revenue
 Displays sales distribution across different years.
 
-**Key Insights**
--	STORE8 generated the highest revenue among all stores.
--	PROD39 is the top-performing product in terms of sales.
--	PayPal is the most preferred payment method among customers.
--	Revenue peaks around 5%–6% discount, indicating the optimal discount strategy.
--	CUST1219 is the highest contributing customer.
--	2024 recorded the highest revenue share, indicating strong business growth.
 
 **Tools & Technologies Used**
 -	Microsoft Excel
@@ -68,8 +61,16 @@ The dataset contains retail sales information including:
 -	Dashboard Design
 -	Analytical Thinking
 
+**Key Insights**
+-	**STORE8** generated the highest revenue among all stores.
+-	**PROD39** is the top-performing product in terms of sales.
+-	**PayPal** is the most preferred payment method among customers.
+-	Revenue peaks around **5%–6% discount**, indicating the optimal discount strategy.
+-	**CUST1219** is the highest contributing customer.
+-	**2024** recorded the highest revenue share, indicating strong business growth.
+
 **Recommendation**
-- Analyse STORE8’s strategy and replicate it in lower-performing stores.
+- Analyse **STORE8’s** strategy and replicate it in lower-performing stores.
 - Ensure adequate stock availability and promote these products through cross-selling strategies.
 -	Consider discount promotions
 -	 Bundle them with high-performing products
